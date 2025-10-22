@@ -4,8 +4,9 @@
 
 Клонировать репозиторий:
    
-   git clone https://github.com/hashtaggedtodeath/ViteLoanApp
-   cd LoanAPI
+git clone https://github.com/hashtaggedtodeath/ViteLoanApp
+   
+cd LoanAPI
    
 Поднять контейнеры:
 
